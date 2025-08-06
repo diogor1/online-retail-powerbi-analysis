@@ -31,12 +31,23 @@ The dashboard provides a real-time view of:
 
 ---
 
-## 📊 Key Insights
+## Key Insights
+1. Consistent Revenue Growth Over Time
+The line chart reveals a steady upward trend in revenue, with notable spikes during certain months. This suggests the business experiences periodic boosts in customer activity, potentially linked to promotions or seasonal demand. These patterns are crucial for forecasting and strategic planning.
 
-- 📈 **Consistent sales growth** observed across months, peaking in Q4.
-- 🏆 **Top-selling product category** dynamically calculated using DAX.
-- 📍 **Customer distribution** is concentrated in key Nigerian cities.
-- 🧠 **KPIs** like Total Sales, Average Order Value, and Order Volume are visualized clearly for business impact.
+2. Top-Selling Product Categories Identified Dynamically
+Using a DAX-driven measure, the dashboard pinpoints the highest-performing product category in real time. This empowers decision-makers to focus inventory, marketing, and investment efforts on products that generate the most revenue.
+
+3. Geographic Concentration of Customers
+The location map shows that most purchases are clustered in key Nigerian cities like Lagos, Abuja, and Ibadan. This insight helps in targeting regional campaigns, optimizing logistics, and understanding geographic demand patterns.
+
+4. Comprehensive KPI Overview
+Core metrics like Total Sales, Order Count, Total Quantity Sold, and Average Order Value are presented in KPI cards. These indicators provide a quick snapshot of business health and allow stakeholders to assess performance at a glance.
+
+5. Interactivity and Drill-Down Capabilities
+Slicers and date hierarchies allow users to explore the data by category, location, and time, promoting deeper insight without overwhelming the dashboard. This level of interactivity enhances usability, especially for non-technical stakeholders.
+
+
 
 ---
 
