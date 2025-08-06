@@ -1,4 +1,4 @@
-# 🛒 Online Retail Power BI Dashboard
+# Online Retail Power BI Dashboard
 
 An interactive Power BI dashboard that analyzes retail store data, uncovering patterns in sales, customer orders, and product categories. Built using real-world data structured in SQL and connected directly to Power BI.
 
@@ -83,7 +83,7 @@ Designing visuals that emphasize clarity, interactivity, and impact
 
 One of the most fulfilling moments was watching the data come alive, revealing trends in product categories, order behaviors, and customer locations. Even better, I was able to dynamically calculate top-performing categories using DAX, a feature that would be valuable in any retail business scenario.
 
-This project has deepened my confidence in connecting SQL with business intelligence tools, and it stands as a testament to my ability to turn complex data into decisions. As I continue to grow in this field, I’m excited to keep exploring ways to turn raw numbers into compelling stories.
+
 
 ## License
 This project is licensed under the MIT License.
